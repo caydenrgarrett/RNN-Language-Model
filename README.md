@@ -1,4 +1,6 @@
-# RNN Language Model
+# RNN Language Model <br>
+
+![image alt](https://apt-web.transforms.svdcdn.com/production/images-people/Shakespeare-William-_-banner.png?w=1000&h=750&auto=compress%2Cformat&fit=crop&dm=1704733878&s=a3131fae3f3d72f5f07731808a270be4)
 
 This repository contains a minimal character-level recurrent neural network (RNN) language model trained on the "Tiny Shakespeare" corpus popularized by Andrej Karpathy. The code was originally authored in Google Colab and kept here both as a Jupyter notebook and as the exported Python script that mirrors the notebook cells.
 
